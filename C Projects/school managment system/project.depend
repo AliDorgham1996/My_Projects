@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1625302789 source:c:\users\ali dorgham\desktop\project\app.c
+	"structure.h"
+
+1625306046 c:\users\ali dorgham\desktop\project\structure.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Types.h"
+	"ENUMS.h"
+
+1624720172 c:\users\ali dorgham\desktop\project\types.h
+
+1625273485 c:\users\ali dorgham\desktop\project\class.h
+	"structure.h"
+
+1625259330 source:c:\users\ali dorgham\desktop\project\class.c
+	"STUDENT.h"
+
+1625273132 c:\users\ali dorgham\desktop\project\student.h
+	"structure.h"
+
+1625273296 c:\users\ali dorgham\desktop\project\enums.h
+
+1625202285 source:c:\users\ali dorgham\desktop\project\main.c
+	"app.h"
+
+1625203073 c:\users\ali dorgham\desktop\project\app.h
+	"structure.h"
+
+1625291609 source:c:\users\ali dorgham\desktop\project\destroy.c
+	"structure.h"
+
+1625299995 source:c:\users\ali dorgham\desktop\project\initialization.c
+	"structure.h"
+
+1625203506 source:c:\users\ali dorgham\desktop\project\menu.c
+	<stdio.h>
+
+1625284282 source:c:\users\ali dorgham\desktop\project\school.c
+	"CLASS.h"
+
+1625202366 source:c:\users\ali dorgham\desktop\project\greeting.c
+	<stdio.h>
+
+1625202444 source:c:\users\ali dorgham\desktop\project\delete_class.c
+	"structure.h"
+
+1625203012 source:c:\users\ali dorgham\desktop\project\delete_student.c
+	"structure.h"
+
+1625287399 source:c:\users\ali dorgham\desktop\project\new.c
+	"structure.h"
+
+1625202172 source:c:\users\ali dorgham\desktop\project\search.c
+	"structure.h"
+
+1625079387 source:c:\users\ali dorgham\desktop\project\new_class.c
+	"structure.h"
+	<stdlib.h>
+	"Types.h"
+	<stdio.h>
+
+1625080916 source:c:\users\ali dorgham\desktop\project\new_student.c
+	"structure.h"
+	<stdlib.h>
+	"Types.h"
+	<stdio.h>
+
+1625095917 source:c:\users\ali dorgham\desktop\project\edit_student.c
+	"structure.h"
+	"ENUMS.h"
+	<stdio.h>
+
+1625259458 source:c:\users\ali dorgham\desktop\project\print_student.c
+	"structure.h"
+
+1625293717 source:c:\users\ali dorgham\desktop\project\edit.c
+	"structure.h"
+
+1625300768 source:c:\users\ali dorgham\desktop\project\print_class.c
+	"structure.h"
+
+1625272274 source:c:\users\ali dorgham\desktop\project\ranks.c
+	"structure.h"
+
+1625299446 source:c:\users\ali dorgham\desktop\project\heap_sort.c
+	"structure.h"
+
+1625304578 source:c:\users\ali dorgham\desktop\project\merge_sort.c
+	"structure.h"
+
+1625304505 source:c:\users\ali dorgham\desktop\project\quick_sort.c
+	"structure.h"
+
+1625302789 source:d:\embedded\courses\work\projects\c\school managment system\app.c
+	"structure.h"
+
+1625306046 d:\embedded\courses\work\projects\c\school managment system\structure.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"Types.h"
+	"ENUMS.h"
+
+1624720172 d:\embedded\courses\work\projects\c\school managment system\types.h
+
+1625273296 d:\embedded\courses\work\projects\c\school managment system\enums.h
+
+1625259330 source:d:\embedded\courses\work\projects\c\school managment system\class.c
+	"STUDENT.h"
+
+1625273132 d:\embedded\courses\work\projects\c\school managment system\student.h
+	"structure.h"
+
+1625202444 source:d:\embedded\courses\work\projects\c\school managment system\delete_class.c
+	"structure.h"
+
+1625203012 source:d:\embedded\courses\work\projects\c\school managment system\delete_student.c
+	"structure.h"
+
+1625291609 source:d:\embedded\courses\work\projects\c\school managment system\destroy.c
+	"structure.h"
+
+1625293717 source:d:\embedded\courses\work\projects\c\school managment system\edit.c
+	"structure.h"
+
+1625202366 source:d:\embedded\courses\work\projects\c\school managment system\greeting.c
+	<stdio.h>
+
+1625299995 source:d:\embedded\courses\work\projects\c\school managment system\initialization.c
+	"structure.h"
+
+1625202285 source:d:\embedded\courses\work\projects\c\school managment system\main.c
+	"app.h"
+
+1625203073 d:\embedded\courses\work\projects\c\school managment system\app.h
+	"structure.h"
+
+1625203506 source:d:\embedded\courses\work\projects\c\school managment system\menu.c
+	<stdio.h>
+
+1625508765 source:d:\embedded\courses\work\projects\c\school managment system\merge_sort.c
+	"structure.h"
+
+1625287399 source:d:\embedded\courses\work\projects\c\school managment system\new.c
+	"structure.h"
+
+1625306894 source:d:\embedded\courses\work\projects\c\school managment system\print_class.c
+	"structure.h"
+
+1625259458 source:d:\embedded\courses\work\projects\c\school managment system\print_student.c
+	"structure.h"
+
+1625508765 source:d:\embedded\courses\work\projects\c\school managment system\quick_sort.c
+	"structure.h"
+
+1625272274 source:d:\embedded\courses\work\projects\c\school managment system\ranks.c
+	"structure.h"
+
+1625284282 source:d:\embedded\courses\work\projects\c\school managment system\school.c
+	"CLASS.h"
+
+1625273485 d:\embedded\courses\work\projects\c\school managment system\class.h
+	"structure.h"
+
+1625202172 source:d:\embedded\courses\work\projects\c\school managment system\search.c
+	"structure.h"
+

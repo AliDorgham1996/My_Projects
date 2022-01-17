@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1624943652 source:c:\users\ali dorgham\desktop\project\app.c
+	<stdio.h>
+	"structure.h"
+	"ENUMS.h"
+
+1624984675 c:\users\ali dorgham\desktop\project\structure.h
+	"Types.h"
+
+1624720172 c:\users\ali dorgham\desktop\project\types.h
+
+1624983107 c:\users\ali dorgham\desktop\project\class.h
+	"structure.h"
+	"ENUMS.h"
+	<stdio.h>
+	<stdlib.h>
+	"Types.h"
+
+1624985692 source:c:\users\ali dorgham\desktop\project\class.c
+	"STUDENT.h"
+	<stdio.h>
+
+1624983391 c:\users\ali dorgham\desktop\project\student.h
+	"structure.h"
+	"ENUMS.h"
+	<stdio.h>
+	<stdlib.h>
+	"Types.h"
+
+1624948784 c:\users\ali dorgham\desktop\project\enums.h
+
+1624788040 source:c:\users\ali dorgham\desktop\project\main.c
+	"structure.h"
+	"APP.h"
+
+1624787162 c:\users\ali dorgham\desktop\project\app.h
+
+1624985492 source:c:\users\ali dorgham\desktop\project\destroy.c
+	"Types.h"
+	<stdlib.h>
+	<stdio.h>
+	"structure.h"
+
+1624985154 source:c:\users\ali dorgham\desktop\project\initialization.c
+	"structure.h"
+	<stdio.h>
+
+1624987372 source:c:\users\ali dorgham\desktop\project\menu.c
+	<stdio.h>
+
+1624983217 source:c:\users\ali dorgham\desktop\project\school.c
+	"CLASS.h"
+
+1624897373 source:c:\users\ali dorgham\desktop\project\greeting.c
+	<stdio.h>
+
+1624983494 source:c:\users\ali dorgham\desktop\project\delete_class.c
+	"structure.h"
+	<stdlib.h>
+
+1624987260 source:c:\users\ali dorgham\desktop\project\delete_student.c
+	"structure.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1624976769 source:c:\users\ali dorgham\desktop\project\new.c
+
+1624985866 source:c:\users\ali dorgham\desktop\project\search.c
+	"structure.h"
+	"Types.h"
+	<stdio.h>
+
