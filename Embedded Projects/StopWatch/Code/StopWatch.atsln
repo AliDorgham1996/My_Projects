@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "StopWatch", "StopWatch\StopWatch.cproj", "{D07735B9-54E0-4172-A6E8-1D3504297683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07735B9-54E0-4172-A6E8-1D3504297683}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D07735B9-54E0-4172-A6E8-1D3504297683}.Debug|AVR.Build.0 = Debug|AVR
+		{D07735B9-54E0-4172-A6E8-1D3504297683}.Release|AVR.ActiveCfg = Release|AVR
+		{D07735B9-54E0-4172-A6E8-1D3504297683}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
